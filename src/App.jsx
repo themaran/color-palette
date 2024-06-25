@@ -113,7 +113,7 @@ const App = () => {
           })
         }
       </div>
-      <button className='absolute transform bottom-32 mx-auto left-40  bg-white w-24 h-14 rounded shadow md:hidden' onClick={generateNewColourPalette}>Generate</button>
+      <button className='absolute transform bottom-72 mx-auto right-0 mr-2 mb-2  bg-white w-24 h-14 rounded shadow md:hidden' onClick={generateNewColourPalette}>Generate</button>
     </div>
   )
 }
